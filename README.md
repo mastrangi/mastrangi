@@ -1,28 +1,72 @@
-Olá! Me chamo Matheus Mastrangi Torres da Costa Bezerra e estou muito empolgado em compartilhar um pouco sobre minha jornada profissional até o momento.
 
-Formação Acadêmica:
+💻 Sobre Mim
 
-Concluí o Ensino Médio integrado ao Técnico em Informática pelo Colégio Educare, São José dos Campos, em 2023.
-Obtive meu diploma de Tecnólogo em Análise e Desenvolvimento de Sistemas pela Unifatecie, também em São José dos Campos, em 2026.
+Olá! Me chamo Matheus Mastrangi Torres da Costa Bezerra, sou desenvolvedor e especialista em automação de processos e integrações. Trabalho na Hunt Sales e curso Análise e Desenvolvimento de Sistemas. Minha paixão é criar soluções tecnológicas que otimizam processos, automatizam tarefas e melhoram a eficiência operacional, especialmente nas áreas de vendas, atendimento e gestão empresarial.
 
-Idiomas:
+🎓 Formação Acadêmica
 
-Sou fluente em Português (nativo).
-Tenho um nível intermediário alto em Inglês e estou dando os primeiros passos no Alemão.
-Certificações:
+Técnico em Informática – Colégio Educare, São José dos Campos (2023)
 
-Possuo certificações em diversas áreas, incluindo Cyber Segurança, Fibras Ópticas e Fundamentos da Inteligência Artificial. Você pode conferir detalhes no meu perfil no Google Drive.
-Projetos:
+Tecnólogo em Análise e Desenvolvimento de Sistemas – Unifatecie, São José dos Campos (2026)
 
-Desenvolvi o aplicativo Dia a Dia Kids para Android e desktop, programado em Python com Kivy. Você pode conferir mais detalhes em www.diadiakids.com.br.
-Também criei um braço robótico de papelão, programado em C++ no Arduino.
 
-Conhecimentos:
+🌍 Idiomas
 
-Possuo habilidades em diversas linguagens como C#, C++, SQL, Python, JavaScript, HTML5 e CSS3.
-Tenho experiência em manutenção e montagem de computadores/notebooks, além de instalação de sistemas operacionais.
-Sou proficiente no pacote Office (Excel, Word e PowerPoint).
+Português – Nativo
 
-Atualmente estou focado em um projeto pessoal, que é o Dia a Dia Kids, porém ele está sendo desenvolvido novamente do zero, dessa vez com o React Native e Expo.
+Inglês – Intermediário avançado
 
-Estou animado para contribuir e aprender ainda mais no mundo da tecnologia!
+Alemão – Iniciante
+
+
+📜 Certificações
+
+Possuo certificações em diversas áreas, incluindo:
+
+Cibersegurança
+
+Fibras Ópticas
+
+Fundamentos de Inteligência Artificial
+📌 Detalhes disponíveis no meu perfil do Google Drive.
+
+
+🚀 Experiência Profissional
+
+Atualmente, trabalho na Hunt Sales, onde atuo no desenvolvimento e automação de processos comerciais, utilizando ferramentas como n8n, ERPNext, Pipedrive, Pipefy e Meetime. Também desenvolvi uma plataforma de WhatsApp com IA, voltada para automação de conversas e atendimento inteligente.
+
+Tenho experiência em infraestrutura de servidores, utilizando Ubuntu Server, Docker e Nginx, além de atuar no desenvolvimento full stack, criando soluções escaláveis e integradas.
+
+🔧 Habilidades Técnicas
+
+Desenvolvimento Full Stack: JavaScript, Node.js, Python, C#, C++, SQL
+
+Banco de Dados: PostgreSQL, MySQL
+
+Automação e Integrações: n8n, Zapier, Mautic
+
+Infraestrutura e Servidores: Ubuntu Server, Docker, Nginx
+
+Desenvolvimento Mobile: React Native, Expo
+
+Web: HTML5, CSS3
+
+Gestão de CRM e ERP: ERPNext, Pipedrive, Pipefy, Meetime
+
+
+🏆 Projetos Destacados
+
+Dia a Dia Kids – Aplicativo educacional para Android e desktop, inicialmente desenvolvido em Python com Kivy. Atualmente, estou reconstruindo a plataforma do zero com React Native e Expo.
+
+Hunt Pilot – Criada para automação de conversas e atendimento inteligente com inteligência artificial avançada no whatsapp e ligação com comunicação entre sistemas, como CRMs.
+
+Solução de Atendimento Inteligente – Sistema com múltiplos atendentes, fluxos e departamentos para otimizar interações com clientes.
+
+Braço Robótico de Papelão – Projetado e programado em C++ no Arduino, utilizando materiais acessíveis para demonstrar conceitos de robótica e programação.
+
+
+🎯 Foco Atual
+
+Atualmente, estou aprimorando o Hunt Pilot, além de buscar novas formas de integrar automação inteligente com processos empresariais que possam fazer a Hunt Sales crescer cada vez mais.
+
+📫 Quer trocar uma ideia? Me chama por aqui ou conecte-se comigo no Linkedin!
