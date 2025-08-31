@@ -35,11 +35,11 @@ Fundamentos de Inteligência Artificial
 
 Atualmente, trabalho na Hunt Sales, onde atuo no desenvolvimento e automação de processos comerciais, utilizando ferramentas como n8n, ERPNext, Pipedrive, Pipefy e Meetime. Também desenvolvi uma plataforma de WhatsApp com IA, voltada para automação de conversas e atendimento inteligente.
 
-Tenho experiência em infraestrutura de servidores, utilizando Ubuntu Server, Docker e Nginx, além de atuar no desenvolvimento full stack, criando soluções escaláveis e integradas.
+Tenho experiência em infraestrutura de servidores, utilizando Ubuntu Server, Docker e Nginx, além de atuar no desenvolvimento back-end, criando soluções escaláveis e integradas.
 
 🔧 Habilidades Técnicas
 
-Desenvolvimento Full Stack: JavaScript, Node.js, Python, C#, C++, SQL
+Desenvolvimento back-end: JavaScript, Node.js, Typescript, Python, C#, C++, SQL, Java
 
 Banco de Dados: PostgreSQL, MySQL
 
