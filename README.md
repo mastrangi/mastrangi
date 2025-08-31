@@ -68,5 +68,3 @@ Braço Robótico de Papelão – Projetado e programado em C++ no Arduino, utili
 🎯 Foco Atual
 
 Atualmente, estou aprimorando o Hunt Pilot, além de buscar novas formas de integrar automação inteligente com processos empresariais que possam fazer a Hunt Sales crescer cada vez mais.
-
-📫 Quer trocar uma ideia? Me chama por aqui ou conecte-se comigo no Linkedin!
